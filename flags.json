@@ -1,3 +1,13 @@
-{
-flags: "a"
-}
+
+[
+ {
+  "country_name": "---",
+  "flag_image": "---",
+  "id": "a"
+ },
+ {
+  "country_name": "---",
+  "flag_image": "---",
+  "id": "b"
+ }
+]
