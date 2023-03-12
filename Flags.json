@@ -183,6 +183,46 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nepal.svg.png",
             "id": "ki"
         },
+        {
+            "country_name": {
+                "English": "Georgia",
+                "Japanese": "ジョージア"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Georgia.svg.png",
+            "id": "ge"
+        },
+        {
+            "country_name": {
+                "English": "Saudi Arabia",
+                "Japanese": "サウジアラビア王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saudi_Arabia.svg.png",
+            "id": "sa"
+        },
+        {
+            "country_name": {
+                "English": "Singapole",
+                "Japanese": "シンガポール共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Singapore.svg.png",
+            "id": "sg"
+        },
+        {
+            "country_name": {
+                "English": "Sri Lanka",
+                "Japanese": "スリランカ民主社会主義共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sri_Lanka.svg.png",
+            "id": "lk"
+        },
+        {
+            "country_name": {
+                "English": "Syria",
+                "Japanese": "シリア・アラブ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Syria.svg.png",
+            "id": "sy"
+        },
     ],
     
     "Europe": [   
@@ -394,6 +434,62 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Norway.svg.png",
             "id": "no"
         },
+        {
+            "country_name": {
+                "English": "San Marino",
+                "Japanese": "サンマリノ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_San_Marino.svg.png",
+            "id": "sm"
+        },
+        {
+            "country_name": {
+                "English": "Swede",
+                "Japanese": "スウェーデン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sweden.svg.png",
+            "id": "se"
+        },
+        {
+            "country_name": {
+                "English": "Switzerland",
+                "Japanese": "スイス連邦"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Switzerland.svg.png",
+            "id": "ch"
+        },
+        {
+            "country_name": {
+                "English": "Serbia",
+                "Japanese": "セルビア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Serbia.svg.png",
+            "id": "rs"
+        },
+        {
+            "country_name": {
+                "English": "Slovakia",
+                "Japanese": "スロバキア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Slovakia.svg.png",
+            "id": "sk"
+        },
+        {
+            "country_name": {
+                "English": "Slovenia",
+                "Japanese": "スロベニア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Slovenia.svg.png",
+            "id": "si"
+        },
+        {
+            "country_name": {
+                "English": "Spain",
+                "Japanese": "スペイン王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Spain.svg.png",
+            "id": "es"
+        },
     ],
     
     "Africa":[
@@ -597,6 +693,94 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nigeria.svg.png",
             "id": "ng"
         },
+        {
+            "country_name": {
+                "English": "Djibouti",
+                "Japanese": "ジブチ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Djibouti.svg.png",
+            "id": "dj"
+        },
+        {
+            "country_name": {
+                "English": "Equatorial Guinea",
+                "Japanese": "赤道ギニア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Equatorial_Guinea.svg.png",
+            "id": "gq"
+        },
+        {
+            "country_name": {
+                "English": "Senegal",
+                "Japanese": "セネガル共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Senegal.svg.png",
+            "id": "sn"
+        },
+        {
+            "country_name": {
+                "English": "Seychelles",
+                "Japanese": "セーシェル共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Seychelles.svg.png",
+            "id": "sc"
+        },
+        {
+            "country_name": {
+                "English": "Sierra Leonne",
+                "Japanese": "シエラレオネ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sierra_Leone.svg.png",
+            "id": "sl"
+        },
+        {
+            "country_name": {
+                "English": "Somalia",
+                "Japanese": "ソマリア連邦共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Somalia.svg.png",
+            "id": "so"
+        },
+        {
+            "country_name": {
+                "English": "Somaliland",
+                "Japanese": "ソマリランド共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Somaliland.svg.png",
+            "id": "none"
+        },
+        {
+            "country_name": {
+                "English": "Sudan",
+                "Japanese": "スーダン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sudan.svg.png",
+            "id": "sd"
+        },
+        {
+            "country_name": {
+                "English": "São Tomé and Príncipe",
+                "Japanese": "サントメ・プリンシペ民主共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_São_Tomé_and_Príncipe.svg.png",
+            "id": "st"
+        },
+        {
+            "country_name": {
+                "English": "Zambia",
+                "Japanese": "ザンビア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Zambia.svg.png",
+            "id": "zm"
+        },
+        {
+            "country_name": {
+                "English": "Zimbabwe",
+                "Japanese": "ジンバブエ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Zimbabwe.svg.png",
+            "id": "zw"
+        },
     ],
     
     "North_America":[
@@ -688,6 +872,38 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nicaragua.svg.png",
             "id": "ni"
         },
+        {
+            "country_name": {
+                "English": "Jamaica",
+                "Japanese": "ジャマイカ"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Jamaica.svg.png",
+            "id": "jm"
+        },
+        {
+            "country_name": {
+                "English": "Saint Kitts",
+                "Japanese": "セントクリストファー・ネイビス連邦"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saint_Kitts_and_Nevis.svg.png",
+            "id": "kn"
+        },
+        {
+            "country_name": {
+                "English": "Saint Lucia",
+                "Japanese": "セントルシア"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saint_Lucia.svg.png",
+            "id": "lc"
+        },
+        {
+            "country_name": {
+                "English": "Saint Vincent and the Grenadines",
+                "Japanese": "セントビンセント及びグレナディーン諸島"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+            "id": "vc"
+        },
     ],
     
     "Sourth_America":[
@@ -730,6 +946,14 @@
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Guyana.svg.png",
             "id": "gy"
+        },
+        {
+            "country_name": {
+                "English": "Suriname",
+                "Japanese": "スリナム共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Suriname.svg.png",
+            "id": "sr"
         },
     ],
 
@@ -782,241 +1006,13 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nauru.svg.png",
             "id": "nr"
         },
-        
-    ],
-
-    "Other":[
-        {
-            "country_name": {
-                "English": "Djibouti",
-                "Japanese": "ジブチ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Djibouti.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Equatorial Guinea",
-                "Japanese": "赤道ギニア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Equatorial_Guinea.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Georgia",
-                "Japanese": "ジョージア"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Georgia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Jamaica",
-                "Japanese": "ジャマイカ"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Jamaica.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Saint Kitts",
-                "Japanese": "セントクリストファー・ネイビス連邦"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saint_Kitts_and_Nevis.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Saint Lucia",
-                "Japanese": "セントルシア"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saint_Lucia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Saint Vincent and the Grenadines",
-                "Japanese": "セントビンセント及びグレナディーン諸島"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
-            "id": "nr"
-        },
         {
             "country_name": {
                 "English": "Samoa",
                 "Japanese": "サモア独立国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Samoa.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "San Marino",
-                "Japanese": "サンマリノ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_San_Marino.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Saudi Arabia",
-                "Japanese": "サウジアラビア王国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Saudi_Arabia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Senegal",
-                "Japanese": "セネガル共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Senegal.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Serbia",
-                "Japanese": "セルビア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Serbia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Seychelles",
-                "Japanese": "セーシェル共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Seychelles.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Sierra Leonne",
-                "Japanese": "シエラレオネ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sierra_Leone.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Singapole",
-                "Japanese": "シンガポール共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Singapore.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Slovakia",
-                "Japanese": "スロバキア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Slovakia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Slovenia",
-                "Japanese": "スロベニア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Slovenia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Somalia",
-                "Japanese": "ソマリア連邦共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Somalia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Somaliland",
-                "Japanese": "ソマリランド共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Somaliland.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Spain",
-                "Japanese": "スペイン王国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Spain.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Sri Lanka",
-                "Japanese": "スリランカ民主社会主義共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sri_Lanka.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Sudan",
-                "Japanese": "スーダン共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sudan.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Suriname",
-                "Japanese": "スリナム共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Suriname.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Swede",
-                "Japanese": "スウェーデン共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Sweden.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Switzerland",
-                "Japanese": "スイス連邦"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Switzerland.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Syria",
-                "Japanese": "シリア・アラブ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Syria.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "São Tomé and Príncipe",
-                "Japanese": "サントメ・プリンシペ民主共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_São_Tomé_and_Príncipe.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Zambia",
-                "Japanese": "ザンビア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Zambia.svg.png",
-            "id": "nr"
-        },
-        {
-            "country_name": {
-                "English": "Zimbabwe",
-                "Japanese": "ジンバブエ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_Zimbabwe.svg.png",
-            "id": "nr"
+            "id": "ws"
         },
         {
             "country_name": {
@@ -1024,8 +1020,12 @@
                 "Japanese": "ソロモン諸島"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/3/Flag_of_the_Solomon_Islands.svg.png",
-            "id": "nr"
+            "id": "sb"
         },
+        
+    ],
+
+    "Other":[
     
     ]
 }
