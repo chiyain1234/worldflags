@@ -143,6 +143,30 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Jordan.svg.png",
             "id": "jo"
         },
+        {
+            "country_name": {
+                "English": "Laos",
+                "Japanese": "ラオス人民民主共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Laos.svg.png",
+            "id": "la"
+        },
+        {
+            "country_name": {
+                "English": "Lebanon",
+                "Japanese": "レバノン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lebanon.svg.png",
+            "id": "lb"
+        },
+        {
+            "country_name": {
+                "English": "Russia",
+                "Japanese": "ロシア連邦"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Russia.svg.png",
+            "id": "ru"
+        },
     ],
     
     "Europe": [   
@@ -314,6 +338,38 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_North_Macedonia.svg.png",
             "id": "mk"
         },
+        {
+            "country_name": {
+                "English": "Liechtenstein",
+                "Japanese": "リヒテンシュタイン公国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Liechtenstein.svg.png",
+            "id": "li"
+        },
+        {
+            "country_name": {
+                "English": "Lithuania",
+                "Japanese": "リトアニア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lithuania.svg.png",
+            "id": "lt"
+        },
+        {
+            "country_name": {
+                "English": "Luxembourg",
+                "Japanese": "ルクセンブルク大公国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Luxembourg.svg.png",
+            "id": "lu"
+        },
+        {
+            "country_name": {
+                "English": "Romania",
+                "Japanese": "ルーマニア"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Romania.svg.png",
+            "id": "ro"
+        },
     ],
     
     "Africa":[
@@ -453,6 +509,38 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_the_Comoros.svg.png",
             "id": "km"
         },
+        {
+            "country_name": {
+                "English": "Lesotho",
+                "Japanese": "レソト王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lesotho.svg.png",
+            "id": "ls"
+        },
+        {
+            "country_name": {
+                "English": "Liberia",
+                "Japanese": "リベリア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Liberia.svg.png",
+            "id": "lr"
+        },
+        {
+            "country_name": {
+                "English": "Libya",
+                "Japanese": "リビア国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Libya.svg.png",
+            "id": "ly"
+        },
+        {
+            "country_name": {
+                "English": "Rwanda",
+                "Japanese": "ルワンダ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Rwanda.svg.png",
+            "id": "rw"
+        },
     ],
     
     "North_America":[
@@ -528,6 +616,14 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Guatemala.svg.png",
             "id": "gt"
         },
+        {
+            "country_name": {
+                "English": "Latvia",
+                "Japanese": "ラトビア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Latvia.svg.png",
+            "id": "lv"
+        },
     ],
     
     "Sourth_America":[
@@ -601,102 +697,6 @@
     ],
 
     "Other":[
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "ラオス人民民主共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Laos.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "ラトビア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Latvia.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "レバノン共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lebanon.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "レソト王国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lesotho.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "リベリア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Liberia.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "リビア国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Libya.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "リヒテンシュタイン公国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Liechtenstein.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "リトアニア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lithuania.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "ルクセンブルク大公国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Luxembourg.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "ルーマニア"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Romania.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "ロシア連邦"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Russia.svg.png",
-            "id": "ki"
-        },
-        {
-            "country_name": {
-                "English": "Kiribati",
-                "Japanese": "ルワンダ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Rwanda.svg.png",
-            "id": "ki"
-        },
     
     ]
 }
