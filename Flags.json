@@ -135,6 +135,14 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_South_Korea.svg.png",
             "id": "kr"
         },
+        {
+            "country_name": {
+                "English": "Jordan",
+                "Japanese": "ヨルダン・ハシミテ王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Jordan.svg.png",
+            "id": "jo"
+        },
     ],
     
     "Europe": [   
@@ -567,7 +575,6 @@
 
     "Oceania":[
         {
-        {
             "country_name": {
                 "English": "Australia",
                 "Japanese": "オーストラリア連邦"
@@ -594,7 +601,102 @@
     ],
 
     "Other":[
-
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "ラオス人民民主共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Laos.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "ラトビア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Latvia.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "レバノン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lebanon.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "レソト王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lesotho.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "リベリア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Liberia.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "リビア国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Libya.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "リヒテンシュタイン公国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Liechtenstein.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "リトアニア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Lithuania.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "ルクセンブルク大公国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Luxembourg.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "ルーマニア"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Romania.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "ロシア連邦"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Russia.svg.png",
+            "id": "ki"
+        },
+        {
+            "country_name": {
+                "English": "Kiribati",
+                "Japanese": "ルワンダ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Rwanda.svg.png",
+            "id": "ki"
+        },
     
     ]
 }
