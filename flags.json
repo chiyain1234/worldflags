@@ -1,14 +1,6 @@
 [
     {
         "country_name": {
-            "English": "Afghanistan",
-            "Japanese": "アフガニスタン・イスラム共和国"
-        },
-        "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Afghanistan.svg.png",
-        "id": "af"
-    },
-    {
-        "country_name": {
             "English": "Albania",
             "Japanese": "アルバニア共和国"
         },
@@ -38,6 +30,45 @@
         },
         "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Angola.svg.png",
         "id": "ao"
-    }
-    # ここに他のア行の国を追加する
+    },
+    {
+        "country_name": {
+            "English": "Antigua and Barbuda",
+            "Japanese": "アンティグア・バーブーダ"
+        },
+        "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Antigua_and_Barbuda.svg.png",
+        "id": "ao"
+    },
+　　　　{
+            "country_name": {
+                "English": "Argentina",
+                "Japanese": "アルゼンチン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Argentina.svg.png",
+            "id": "ar"
+        },
+        {
+            "country_name": {
+                "English": "Armenia",
+                "Japanese": "アルメニア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Armenia.svg.png",
+            "id": "am"
+        },
+        {
+            "country_name": {
+                "English": "Australia",
+                "Japanese": "オーストラリア"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Australia.svg.png",
+            "id": "au"
+        },    
+    {
+        "country_name": {
+            "English": "Afghanistan",
+            "Japanese": "アフガニスタン・イスラム首長国"
+        },
+        "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_Taliban.svg.png",
+        "id": "af"
+    },
 ]
