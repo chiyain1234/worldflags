@@ -318,275 +318,275 @@
     "Other":[
         {
             "country_name": {
-                "English": "India",
+                "English": "Cambodia",
                 "Japanese": "カンボジア王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Cambodia.svg.png",
-            "id": "in"
+            "id": "kh"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Cameroon",
                 "Japanese": "カメルーン共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Cameroon.svg.png",
-            "id": "in"
+            "id": "cm"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Canada",
                 "Japanese": "カナダ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Canada.svg.png",
-            "id": "in"
+            "id": "ca"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Cape Verde",
                 "Japanese": "カーボベルデ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Cape_Verde.svg.png",
-            "id": "in"
+            "id": "cv"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Colombia",
                 "Japanese": "コロンビア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Colombia.svg.png",
-            "id": "in"
+            "id": "co"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Costa Rica",
                 "Japanese": "コスタリカ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Costa_Rica.svg.png",
-            "id": "in"
+            "id": "cr"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Croatia",
                 "Japanese": "クロアチア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Croatia.svg.png",
-            "id": "in"
+            "id": "hr"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Cuba",
                 "Japanese": "キューバ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Cuba.svg.png",
-            "id": "in"
+            "id": "cu"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Cyprus",
                 "Japanese": "キプロス共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Cyprus.svg.png",
-            "id": "in"
+            "id": "cy"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Côte d'Ivoire",
                 "Japanese": "コートジボワール共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Côte_d'Ivoire.svg.png",
-            "id": "in"
+            "id": "ci"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Gabon",
                 "Japanese": "ガボン共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Gabon.svg.png",
-            "id": "in"
+            "id": "ga"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Ghana",
                 "Japanese": "ガーナ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Ghana.svg.png",
-            "id": "in"
+            "id": "gh"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Greece",
                 "Japanese": "ギリシャ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Greece.svg.png",
-            "id": "in"
+            "id": "gr"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Grenada",
                 "Japanese": "グレナダ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Grenada.svg.png",
-            "id": "in"
+            "id": "gd"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Guatemala",
                 "Japanese": "グアテマラ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Guatemala.svg.png",
-            "id": "in"
+            "id": "gt"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Guinea Bissau",
                 "Japanese": "ギニアビサウ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Guinea-Bissau.svg.png",
-            "id": "in"
+            "id": "gw"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Guinea",
                 "Japanese": "ギニア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Guinea.svg.png",
-            "id": "in"
+            "id": "gn"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Guyana",
                 "Japanese": "ガイアナ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Guyana.svg.png",
-            "id": "in"
+            "id": "gy"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Kazakhstan",
                 "Japanese": "カザフスタン共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kazakhstan.svg.png",
-            "id": "in"
+            "id": "kz"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "ケニ共和国"
+                "English": "Kenya",
+                "Japanese": "ケニア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kenya.svg.png",
-            "id": "in"
+            "id": "ke"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Kiribati",
                 "Japanese": "キリバス共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kiribati.svg.png",
-            "id": "in"
+            "id": "ki"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Kosovo",
                 "Japanese": "コソボ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kosovo.svg.png",
-            "id": "in"
+            "id": "xk"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Kuwait",
                 "Japanese": "クウェート国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kuwait.svg.png",
-            "id": "in"
+            "id": "kw"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Kyrgyzstan",
                 "Japanese": "キルギス共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kyrgyzstan.svg.png",
-            "id": "in"
+            "id": "kg"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "North Korea",
                 "Japanese": "朝鮮民主主義人民共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_North_Korea.svg.png",
-            "id": "in"
+            "id": "kp"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "North Macedonia",
                 "Japanese": "北マケドニア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_North_Macedonia.svg.png",
-            "id": "in"
+            "id": "mk"
         },
         {
             "country_name": {
-                "English": "India",
+                "English": "Qatar",
                 "Japanese": "カタール国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Qatar.svg.png",
-            "id": "in"
+            "id": "qa"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "South Korea",
+                "Japanese": "大韓民国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_South_Korea.svg.png",
-            "id": "in"
+            "id": "kr"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "Gambia",
+                "Japanese": "ガンビア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_The_Gambia.svg.png",
-            "id": "in"
+            "id": "gm"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "Comoros",
+                "Japanese": "コモロ連合"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_the_Comoros.svg.png",
-            "id": "in"
+            "id": "km"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "the Cook Islands",
+                "Japanese": "クック諸島"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_the_Cook_Islands.svg.png",
-            "id": "in"
+            "id": "ck"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "the Democratic Republic of the Congo",
+                "Japanese": "コンゴ民主共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
-            "id": "in"
+            "id": "cd"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "the Republic of the Congo",
+                "Japanese": "コンゴ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_the_Republic_of_the_Congo.svg.png",
-            "id": "in"
+            "id": "cg"
         },
         {
             "country_name": {
-                "English": "India",
-                "Japanese": "カンボジア"
+                "English": "the Turkish Republic of Northern Cyprus",
+                "Japanese": "北キプロス・トルコ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
-            "id": "in"
+            "id": "none"
         },
     
     ]
