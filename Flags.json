@@ -1193,16 +1193,16 @@
     "Other": [
         {
             "country_name": {
-                "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "English": "Palau",
+                "Japanese": "パラオ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/134px-Flag_of_Palau.svg.png",
-            "id": "tv"
+            "id": "pw"
         },
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ボリビア多民族国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Bandera_de_Bolivia_(Estado).svg.png",
             "id": "tv"
@@ -1210,7 +1210,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "バーレーン王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bahrain.svg.png",
             "id": "tv"
@@ -1218,7 +1218,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "バングラデシュ人民共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bangladesh.svg.png",
             "id": "tv"
@@ -1226,7 +1226,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "バルバドス"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Barbados.svg.png",
             "id": "tv"
@@ -1234,7 +1234,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ベラルーシ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belarus.svg.png",
             "id": "tv"
@@ -1242,7 +1242,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ベルギー王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belgium.svg.png",
             "id": "tv"
@@ -1250,7 +1250,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ベリーズ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belize.svg.png",
             "id": "tv"
@@ -1258,7 +1258,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ベナン共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Benin.svg.png",
             "id": "tv"
@@ -1266,7 +1266,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ブータン王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bhutan.svg.png",
             "id": "tv"
@@ -1274,7 +1274,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ボスニア・ヘルツェゴビナ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bosnia_and_Herzegovina.svg.png",
             "id": "tv"
@@ -1282,7 +1282,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ボツワナ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Botswana.svg.png",
             "id": "tv"
@@ -1290,7 +1290,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ブラジル連邦共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Brazil.svg.png",
             "id": "tv"
@@ -1298,7 +1298,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ブルネイ・ダルサラーム国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Brunei.svg.png",
             "id": "tv"
@@ -1306,7 +1306,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ブルガリア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bulgaria.svg.png",
             "id": "tv"
@@ -1314,7 +1314,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ブルキナファソ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Burkina_Faso.svg.png",
             "id": "tv"
@@ -1322,7 +1322,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ブルンジ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Burundi.svg.png",
             "id": "tv"
@@ -1330,7 +1330,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "東ティモール民主共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_East_Timor.svg.png",
             "id": "tv"
@@ -1338,7 +1338,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "フィジー"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Fiji.svg.png",
             "id": "tv"
@@ -1346,7 +1346,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "フィンランド共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Finland.svg.png",
             "id": "tv"
@@ -1354,7 +1354,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "フランス共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_France_(1794–1815,_1830–1974,_2020–present).svg.png",
             "id": "tv"
@@ -1362,7 +1362,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ハイチ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Haiti.svg.png",
             "id": "tv"
@@ -1370,7 +1370,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ホンジュラス共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Honduras.svg.png",
             "id": "tv"
@@ -1378,7 +1378,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ハンガリー"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Hungary.svg.png",
             "id": "tv"
@@ -1386,7 +1386,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "パキスタン・イスラム共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Pakistan.svg.png",
             "id": "tv"
@@ -1394,7 +1394,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "パレスチナ国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Palestine.svg.png",
             "id": "tv"
@@ -1402,7 +1402,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "パナマ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Panama.svg.png",
             "id": "tv"
@@ -1410,7 +1410,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "パプアニューギニア独立国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Papua_New_Guinea.svg.png",
             "id": "tv"
@@ -1418,7 +1418,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "パラグアイ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Paraguay.svg.png",
             "id": "tv"
@@ -1426,7 +1426,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ペルー共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Peru.svg.png",
             "id": "tv"
@@ -1434,7 +1434,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ポーランド共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Poland.svg.png",
             "id": "tv"
@@ -1442,7 +1442,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ポルトガル共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Portugal.svg.png",
             "id": "tv"
@@ -1450,7 +1450,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "バヌアツ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Vanuatu.svg.png",
             "id": "tv"
@@ -1458,7 +1458,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ベネズエラ・ボリバル共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Venezuela.svg.png",
             "id": "tv"
@@ -1466,7 +1466,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "ベトナム社会主義共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Vietnam.svg.png",
             "id": "tv"
@@ -1474,7 +1474,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "バハマ国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Bahamas.svg.png",
             "id": "tv"
@@ -1482,7 +1482,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "フィリピン共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Philippines.svg.png",
             "id": "tv"
@@ -1490,7 +1490,7 @@
         {
             "country_name": {
                 "English": "Tuvalu",
-                "Japanese": "ツバル"
+                "Japanese": "バチカン市国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Vatican_City.svg.png",
             "id": "tv"
