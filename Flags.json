@@ -271,6 +271,70 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_the_Republic_of_China.svg.png",
             "id": "tw"
         },
+        {
+            "country_name": {
+                "English": "Bahrain",
+                "Japanese": "バーレーン王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bahrain.svg.png",
+            "id": "bh"
+        },
+        {
+            "country_name": {
+                "English": "Bangladesh",
+                "Japanese": "バングラデシュ人民共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bangladesh.svg.png",
+            "id": "bd"
+        },
+        {
+            "country_name": {
+                "English": "Bhutan",
+                "Japanese": "ブータン王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bhutan.svg.png",
+            "id": "bt"
+        },
+        {
+            "country_name": {
+                "English": "Brunei",
+                "Japanese": "ブルネイ・ダルサラーム国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Brunei.svg.png",
+            "id": "bn"
+        },
+        {
+            "country_name": {
+                "English": "Pakistan",
+                "Japanese": "パキスタン・イスラム共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Pakistan.svg.png",
+            "id": "pk"
+        },
+        {
+            "country_name": {
+                "English": "Palestine",
+                "Japanese": "パレスチナ国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Palestine.svg.png",
+            "id": "ps"
+        },
+        {
+            "country_name": {
+                "English": "Vietnam",
+                "Japanese": "ベトナム社会主義共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Vietnam.svg.png",
+            "id": "vn"
+        },
+        {
+            "country_name": {
+                "English": "Philippines",
+                "Japanese": "フィリピン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Philippines.svg.png",
+            "id": "ph"
+        },
     ],
     
 	
@@ -562,6 +626,86 @@
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Germany.svg.png",
             "id": "de"
+        },
+        {
+            "country_name": {
+                "English": "Belarus",
+                "Japanese": "ベラルーシ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belarus.svg.png",
+            "id": "by"
+        },
+        {
+            "country_name": {
+                "English": "Belgium",
+                "Japanese": "ベルギー王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belgium.svg.png",
+            "id": "be"
+        },
+        {
+            "country_name": {
+                "English": "Bosnia and Herzegovina",
+                "Japanese": "ボスニア・ヘルツェゴビナ"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bosnia_and_Herzegovina.svg.png",
+            "id": "ba"
+        },
+        {
+            "country_name": {
+                "English": "Finland",
+                "Japanese": "フィンランド共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Finland.svg.png",
+            "id": "fi"
+        },
+        {
+            "country_name": {
+                "English": "France",
+                "Japanese": "フランス共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_France_(1794–1815,_1830–1974,_2020–present).svg.png",
+            "id": "fr"
+        },
+        {
+            "country_name": {
+                "English": "the Vatican City",
+                "Japanese": "バチカン市国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Vatican_City.svg.png",
+            "id": "va"
+        },
+        {
+            "country_name": {
+                "English": "Poland",
+                "Japanese": "ポーランド共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Poland.svg.png",
+            "id": "pl"
+        },
+        {
+            "country_name": {
+                "English": "Portugal",
+                "Japanese": "ポルトガル共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Portugal.svg.png",
+            "id": "pt"
+        },
+        {
+            "country_name": {
+                "English": "Hungary",
+                "Japanese": "ハンガリー"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Hungary.svg.png",
+            "id": "hu"
+        },
+        {
+            "country_name": {
+                "English": "Bulgaria",
+                "Japanese": "ブルガリア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bulgaria.svg.png",
+            "id": "bg"
         },
     ],
     
@@ -895,6 +1039,38 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Tanzania.svg.png",
             "id": "tz"
         },
+        {
+            "country_name": {
+                "English": "Benin",
+                "Japanese": "ベナン共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Benin.svg.png",
+            "id": "bj"
+        },
+        {
+            "country_name": {
+                "English": "Botswana",
+                "Japanese": "ボツワナ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Botswana.svg.png",
+            "id": "bw"
+        },
+        {
+            "country_name": {
+                "English": "Burkina Faso",
+                "Japanese": "ブルキナファソ"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Burkina_Faso.svg.png",
+            "id": "bf"
+        },
+        {
+            "country_name": {
+                "English": "Tuvalu",
+                "Japanese": "ブルンジ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Burundi.svg.png",
+            "id": "bi"
+        },
     ],
     
 	
@@ -1043,6 +1219,46 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Dominica.svg.png",
             "id": "dm"
         },
+        {
+            "country_name": {
+                "English": "Barbados",
+                "Japanese": "バルバドス"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Barbados.svg.png",
+            "id": "bb"
+        },
+        {
+            "country_name": {
+                "English": "Belize",
+                "Japanese": "ベリーズ"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belize.svg.png",
+            "id": "bz"
+        },
+        {
+            "country_name": {
+                "English": "Panama",
+                "Japanese": "パナマ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Panama.svg.png",
+            "id": "pa"
+        },
+        {
+            "country_name": {
+                "English": "Bahamas",
+                "Japanese": "バハマ国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Bahamas.svg.png",
+            "id": "bs"
+        },
+        {
+            "country_name": {
+                "English": "Honduras",
+                "Japanese": "ホンジュラス共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Honduras.svg.png",
+            "id": "hn"
+        },
     ],
     
     "Sourth_America":[
@@ -1101,6 +1317,46 @@
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Chile.svg.png",
             "id": ""
+        },
+        {
+            "country_name": {
+                "English": "Bolivia",
+                "Japanese": "ボリビア多民族国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Bandera_de_Bolivia_(Estado).svg.png",
+            "id": "bo"
+        },
+        {
+            "country_name": {
+                "English": "Brazil",
+                "Japanese": "ブラジル連邦共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Brazil.svg.png",
+            "id": "br"
+        },
+        {
+            "country_name": {
+                "English": "Venezuela",
+                "Japanese": "ベネズエラ・ボリバル共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Venezuela.svg.png",
+            "id": "ve"
+        },
+        {
+            "country_name": {
+                "English": "Paragua",
+                "Japanese": "パラグアイ共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Paraguay.svg.png",
+            "id": "py"
+        },
+        {
+            "country_name": {
+                "English": "Peru",
+                "Japanese": "ペルー共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Peru.svg.png",
+            "id": "pe"
         },
     ],
 
@@ -1186,11 +1442,6 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Tuvalu.svg.png",
             "id": "tv"
         },
-        
-	    
-    ],
-{
-    "Other": [
         {
             "country_name": {
                 "English": "Palau",
@@ -1198,134 +1449,6 @@
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/134px-Flag_of_Palau.svg.png",
             "id": "pw"
-        },
-        {
-            "country_name": {
-                "English": "Bolivia",
-                "Japanese": "ボリビア多民族国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Bandera_de_Bolivia_(Estado).svg.png",
-            "id": "bo"
-        },
-        {
-            "country_name": {
-                "English": "Bahrain",
-                "Japanese": "バーレーン王国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bahrain.svg.png",
-            "id": "bh"
-        },
-        {
-            "country_name": {
-                "English": "Bangladesh",
-                "Japanese": "バングラデシュ人民共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bangladesh.svg.png",
-            "id": "bd"
-        },
-        {
-            "country_name": {
-                "English": "Barbados",
-                "Japanese": "バルバドス"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Barbados.svg.png",
-            "id": "bb"
-        },
-        {
-            "country_name": {
-                "English": "Belarus",
-                "Japanese": "ベラルーシ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belarus.svg.png",
-            "id": "by"
-        },
-        {
-            "country_name": {
-                "English": "Belgium",
-                "Japanese": "ベルギー王国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belgium.svg.png",
-            "id": "be"
-        },
-        {
-            "country_name": {
-                "English": "Belize",
-                "Japanese": "ベリーズ"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Belize.svg.png",
-            "id": "bz"
-        },
-        {
-            "country_name": {
-                "English": "Benin",
-                "Japanese": "ベナン共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Benin.svg.png",
-            "id": "bj"
-        },
-        {
-            "country_name": {
-                "English": "Bhutan",
-                "Japanese": "ブータン王国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bhutan.svg.png",
-            "id": "bt"
-        },
-        {
-            "country_name": {
-                "English": "Bosnia and Herzegovina",
-                "Japanese": "ボスニア・ヘルツェゴビナ"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bosnia_and_Herzegovina.svg.png",
-            "id": "ba"
-        },
-        {
-            "country_name": {
-                "English": "Botswana",
-                "Japanese": "ボツワナ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Botswana.svg.png",
-            "id": "bw"
-        },
-        {
-            "country_name": {
-                "English": "Brazil",
-                "Japanese": "ブラジル連邦共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Brazil.svg.png",
-            "id": "br"
-        },
-        {
-            "country_name": {
-                "English": "Brunei",
-                "Japanese": "ブルネイ・ダルサラーム国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Brunei.svg.png",
-            "id": "bn"
-        },
-        {
-            "country_name": {
-                "English": "Bulgaria",
-                "Japanese": "ブルガリア共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Bulgaria.svg.png",
-            "id": "bg"
-        },
-        {
-            "country_name": {
-                "English": "Burkina Faso",
-                "Japanese": "ブルキナファソ"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Burkina_Faso.svg.png",
-            "id": "bf"
-        },
-        {
-            "country_name": {
-                "English": "Tuvalu",
-                "Japanese": "ブルンジ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Burundi.svg.png",
-            "id": "bi"
         },
         {
             "country_name": {
@@ -1345,67 +1468,11 @@
         },
         {
             "country_name": {
-                "English": "Finland",
-                "Japanese": "フィンランド共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Finland.svg.png",
-            "id": "fi"
-        },
-        {
-            "country_name": {
-                "English": "France",
-                "Japanese": "フランス共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_France_(1794–1815,_1830–1974,_2020–present).svg.png",
-            "id": "fr"
-        },
-        {
-            "country_name": {
                 "English": "Haiti",
                 "Japanese": "ハイチ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Haiti.svg.png",
             "id": "ht"
-        },
-        {
-            "country_name": {
-                "English": "Honduras",
-                "Japanese": "ホンジュラス共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Honduras.svg.png",
-            "id": "hn"
-        },
-        {
-            "country_name": {
-                "English": "Hungary",
-                "Japanese": "ハンガリー"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Hungary.svg.png",
-            "id": "hu"
-        },
-        {
-            "country_name": {
-                "English": "Pakistan",
-                "Japanese": "パキスタン・イスラム共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Pakistan.svg.png",
-            "id": "pk"
-        },
-        {
-            "country_name": {
-                "English": "Palestine",
-                "Japanese": "パレスチナ国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Palestine.svg.png",
-            "id": "ps"
-        },
-        {
-            "country_name": {
-                "English": "Panama",
-                "Japanese": "パナマ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Panama.svg.png",
-            "id": "pa"
         },
         {
             "country_name": {
@@ -1417,84 +1484,17 @@
         },
         {
             "country_name": {
-                "English": "Paragua",
-                "Japanese": "パラグアイ共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Paraguay.svg.png",
-            "id": "py"
-        },
-        {
-            "country_name": {
-                "English": "Peru",
-                "Japanese": "ペルー共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Peru.svg.png",
-            "id": "pe"
-        },
-        {
-            "country_name": {
-                "English": "Poland",
-                "Japanese": "ポーランド共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Poland.svg.png",
-            "id": "pl"
-        },
-        {
-            "country_name": {
-                "English": "Portugal",
-                "Japanese": "ポルトガル共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Portugal.svg.png",
-            "id": "pt"
-        },
-        {
-            "country_name": {
                 "English": "Vanuatu",
                 "Japanese": "バヌアツ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Vanuatu.svg.png",
             "id": "vu"
         },
-        {
-            "country_name": {
-                "English": "Venezuela",
-                "Japanese": "ベネズエラ・ボリバル共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Venezuela.svg.png",
-            "id": "ve"
-        },
-        {
-            "country_name": {
-                "English": "Vietnam",
-                "Japanese": "ベトナム社会主義共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_Vietnam.svg.png",
-            "id": "vn"
-        },
-        {
-            "country_name": {
-                "English": "Bahamas",
-                "Japanese": "バハマ国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Bahamas.svg.png",
-            "id": "bs"
-        },
-        {
-            "country_name": {
-                "English": "Philippines",
-                "Japanese": "フィリピン共和国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Philippines.svg.png",
-            "id": "ph"
-        },
-        {
-            "country_name": {
-                "English": "the Vatican City",
-                "Japanese": "バチカン市国"
-            },
-            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/6/Flag_of_the_Vatican_City.svg.png",
-            "id": "va"
-        },
+        
+	    
+    ],
+{
+    "Other": [
     ]
 }
 }
