@@ -1,5 +1,5 @@
 [
-    {
+	{
 		"country_name": {
 			"English": "Albania",
 			"Japanese": "アルバニア共和国"
@@ -129,10 +129,98 @@
 	},
 	{
 		"country_name": {
-			"English": "Armenia",
-			"Japanese": "アルメニア共和国"
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Armenia.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
 		"id": "am"
 	},
 	{
