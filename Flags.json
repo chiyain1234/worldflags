@@ -237,7 +237,7 @@
                 "Japanese": "タイ王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Thailand.svg.png",
-            "id": "tj"
+            "id": "th"
         },
         {
             "country_name": {
@@ -245,7 +245,7 @@
                 "Japanese": "トルコ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Turkey.svg.png",
-            "id": "tj"
+            "id": "tr"
         },
         {
             "country_name": {
@@ -253,7 +253,7 @@
                 "Japanese": "トルクメニスタン"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Turkmenistan.svg.png",
-            "id": "tj"
+            "id": "tm"
         },
         {
             "country_name": {
@@ -261,7 +261,7 @@
                 "Japanese": "中華人民共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_the_People's_Republic_of_China.svg.png",
-            "id": "tg"
+            "id": "cn"
         },
         {
             "country_name": {
@@ -269,7 +269,7 @@
                 "Japanese": "台湾"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_the_Republic_of_China.svg.png",
-            "id": "tg"
+            "id": "tw"
         },
     ],
     
@@ -545,7 +545,7 @@
                 "Japanese": "チェコ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_the_Czech_Republic.svg.png",
-            "id": "tz"
+            "id": "cz"
         },
         {
             "country_name": {
@@ -553,7 +553,7 @@
                 "Japanese": "デンマーク"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Denmark.svg.png",
-            "id": "tj"
+            "id": "dk"
         },
         {
             "country_name": {
@@ -561,7 +561,7 @@
                 "Japanese": "ドイツ連邦共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Germany.svg.png",
-            "id": "tj"
+            "id": "de"
         },
     ],
     
@@ -869,7 +869,7 @@
                 "Japanese": "トーゴ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Togo.svg.png",
-            "id": "tj"
+            "id": "tg"
         },
         {
             "country_name": {
@@ -877,7 +877,7 @@
                 "Japanese": "チュニジア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Tunisia.svg.png",
-            "id": "tj"
+            "id": "tn"
         },
         {
             "country_name": {
@@ -885,7 +885,7 @@
                 "Japanese": "中央アフリカ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_the_Central_African_Republic.svg.png",
-            "id": "td"
+            "id": "cf"
         },
         {
             "country_name": {
@@ -893,7 +893,7 @@
                 "Japanese": "タンザニア連合共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Tanzania.svg.png",
-            "id": "tj"
+            "id": "tz"
         },
     ],
     
@@ -1025,7 +1025,7 @@
                 "Japanese": "ドミニカ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_the_Dominican_Republic.svg.png",
-            "id": "th"
+            "id": "do"
         },
         {
             "country_name": {
@@ -1041,7 +1041,7 @@
                 "Japanese": "ドミニカ国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Dominica.svg.png",
-            "id": "tj"
+            "id": "dm"
         },
     ],
     
@@ -1100,7 +1100,7 @@
                 "Japanese": "チリ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Chile.svg.png",
-            "id": "tj"
+            "id": ""
         },
     ],
 
@@ -1176,7 +1176,7 @@
                 "Japanese": "トンガ王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Tonga.svg.png",
-            "id": "tj"
+            "id": "to"
         },
         {
             "country_name": {
@@ -1184,7 +1184,7 @@
                 "Japanese": "ツバル"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/4/Flag_of_Tuvalu.svg.png",
-            "id": "tj"
+            "id": "tv"
         },
         
 	    
