@@ -167,6 +167,22 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Russia.svg.png",
             "id": "ru"
         },
+        {
+            "country_name": {
+                "English": "Japan",
+                "Japanese": "日本国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Japan.svg.png",
+            "id": "jp"
+        },
+        {
+            "country_name": {
+                "English": "Nepal",
+                "Japanese": "ネパール"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nepal.svg.png",
+            "id": "ki"
+        },
     ],
     
     "Europe": [   
@@ -370,6 +386,14 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Romania.svg.png",
             "id": "ro"
         },
+        {
+            "country_name": {
+                "English": "Norway",
+                "Japanese": "ノルウェー王国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Norway.svg.png",
+            "id": "no"
+        },
     ],
     
     "Africa":[
@@ -541,6 +565,38 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Rwanda.svg.png",
             "id": "rw"
         },
+        {
+            "country_name": {
+                "English": "Namibia",
+                "Japanese": "ナミビア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Namibia.svg.png",
+            "id": "na"
+        },
+        {
+            "country_name": {
+                "English": "the Sahrawi Arab Democratic Republic",
+                "Japanese": "サハラ・アラブ民主共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+            "id": "eh"
+        },
+        {
+            "country_name": {
+                "English": "Niger",
+                "Japanese": "ニジェール共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Niger.svg.png",
+            "id": "ne"
+        },
+        {
+            "country_name": {
+                "English": "Nigeria",
+                "Japanese": "ナイジェリア連邦共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nigeria.svg.png",
+            "id": "ng"
+        },
     ],
     
     "North_America":[
@@ -624,6 +680,14 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/8/Flag_of_Latvia.svg.png",
             "id": "lv"
         },
+        {
+            "country_name": {
+                "English": "Nicaragua",
+                "Japanese": "ニカラグア共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nicaragua.svg.png",
+            "id": "ni"
+        },
     ],
     
     "Sourth_America":[
@@ -694,6 +758,31 @@
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/2/Flag_of_Kiribati.svg.png",
             "id": "ki"
         },
+        {
+            "country_name": {
+                "English": "Niue",
+                "Japanese": "ニウエ"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/150px-Flag_of_Niue.svg.png",
+            "id": "nu"
+        },
+        {
+            "country_name": {
+                "English": "New Zealand",
+                "Japanese": "ニュージーランド"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_New_Zealand.svg.png",
+            "id": "nz"
+        },
+        {
+            "country_name": {
+                "English": "Nauru",
+                "Japanese": "ナウル共和国"
+            },
+            "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/5/Flag_of_Nauru.svg.png",
+            "id": "nr"
+        },
+        
     ],
 
     "Other":[
