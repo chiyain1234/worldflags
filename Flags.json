@@ -341,7 +341,7 @@
                 "Japanese": "マレーシア"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Malaysia.svg.png",
-            "id": "my
+            "id": "my"
         },
         {
             "country_name": {
@@ -349,7 +349,7 @@
                 "Japanese": "モルディブ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Maldives.svg.png",
-            "id": "mv
+            "id": "mv"
         },
         {
             "country_name": {
@@ -357,7 +357,7 @@
                 "Japanese": "モンゴル国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Mongolia.svg.png",
-            "id": "mn
+            "id": "mn"
         },
         {
             "country_name": {
@@ -365,7 +365,7 @@
                 "Japanese": "ミャンマー連邦共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Myanmar.svg.png",
-            "id": "mm
+            "id": "mm"
         },
         {
             "country_name": {
@@ -373,7 +373,7 @@
                 "Japanese": "南オセチア-アラニア共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_South_Ossetia.svg.png",
-            "id": "none
+            "id": "none"
         }
     ],
     
@@ -753,7 +753,7 @@
                 "Japanese": "マルタ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Malta.svg.png",
-            "id": "mt
+            "id": "mt"
         },
         {
             "country_name": {
@@ -761,7 +761,7 @@
                 "Japanese": "モルドヴァ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Moldova.svg.png",
-            "id": "md
+            "id": "md"
         },
         {
             "country_name": {
@@ -769,7 +769,7 @@
                 "Japanese": "モナコ公国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Monaco.svg.png",
-            "id": "mc
+            "id": "mc"
         },
         {
             "country_name": {
@@ -777,7 +777,7 @@
                 "Japanese": "モンテネグロ"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Montenegro.svg.png",
-            "id": "me
+            "id": "me"
         }
     ],
     
@@ -1149,7 +1149,7 @@
                 "Japanese": "マダガスカル共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Madagascar.svg.png",
-            "id": "mg
+            "id": "mg"
         },
         {
             "country_name": {
@@ -1157,7 +1157,7 @@
                 "Japanese": "マラウイ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Malawi.svg.png",
-            "id": "mw
+            "id": "mw"
         },
         {
             "country_name": {
@@ -1165,7 +1165,7 @@
                 "Japanese": "モーリタニア・イスラム共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Mauritania.svg.png",
-            "id": "mr
+            "id": "mr"
         },
         {
             "country_name": {
@@ -1173,7 +1173,7 @@
                 "Japanese": "モーリシャス共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Mauritius.svg.png",
-            "id": "mu
+            "id": "mu"
         },
         {
             "country_name": {
@@ -1181,7 +1181,7 @@
                 "Japanese": "モロッコ王国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Morocco.svg.png",
-            "id": "ma
+            "id": "ma"
         },
         {
             "country_name": {
@@ -1189,7 +1189,7 @@
                 "Japanese": "モザンビーク共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Mozambique.svg.png",
-            "id": "mz
+            "id": "mz"
         },
         {
             "country_name": {
@@ -1197,7 +1197,7 @@
                 "Japanese": "南アフリカ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_South_Africa.svg.png",
-            "id": "za
+            "id": "za"
         },
         {
             "country_name": {
@@ -1205,7 +1205,7 @@
                 "Japanese": "南スーダン共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_South_Sudan.svg.png",
-            "id": "ss
+            "id": "ss"
         },
         {
             "country_name": {
@@ -1213,7 +1213,7 @@
                 "Japanese": "マリ共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_Mali.svg.png",
-            "id": "ml
+            "id": "ml"
         }
     ],
     
@@ -1648,7 +1648,7 @@
                 "Japanese": "ミクロネシア連邦"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_the_Federated_States_of_Micronesia.svg.png",
-            "id": "fm
+            "id": "fm"
         },
         {
             "country_name": {
@@ -1656,7 +1656,7 @@
                 "Japanese": "マーシャル諸島共和国"
             },
             "flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/7/Flag_of_the_Marshall_Islands.svg.png",
-            "id": "mh
+            "id": "mh"
         }
 
 	    
