@@ -137,10 +137,26 @@
 	},
 	{
 		"country_name": {
-			"English": "Eswatini",
-			"Japanese": "エスワティニ王国"
+			"English": "Iceland",
+			"Japanese": "アイスランド"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Iceland.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "India",
+			"Japanese": "インド"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_India.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "インドネシア共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Indonesia.svg.png",
 		"id": "am"
 	},
 	{
@@ -148,7 +164,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Iran.svg.png",
 		"id": "am"
 	},
 	{
@@ -156,7 +172,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Iraq.svg.png",
 		"id": "am"
 	},
 	{
@@ -164,7 +180,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Ireland.svg.png",
 		"id": "am"
 	},
 	{
@@ -172,7 +188,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Israel.svg.png",
 		"id": "am"
 	},
 	{
@@ -180,7 +196,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Italy.svg.png",
 		"id": "am"
 	},
 	{
@@ -188,7 +204,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Oman.svg.png",
 		"id": "am"
 	},
 	{
@@ -196,7 +212,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Transnistria_(state).svg.png",
 		"id": "am"
 	},
 	{
@@ -204,7 +220,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Uganda.svg.png3,
 		"id": "am"
 	},
 	{
@@ -212,7 +228,7 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Ukraine.svg.png",
 		"id": "am"
 	},
 	{
@@ -220,7 +236,39 @@
 			"English": "Eswatini",
 			"Japanese": "エスワティニ王国"
 		},
-		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eswatini.svg.png",
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Uruguay.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Uzbekistan.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Yemen.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_Netherlands.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_Republic_of_Abkhazia.svg.png",
 		"id": "am"
 	},
 	{
@@ -230,5 +278,29 @@
 		},
 		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_Taliban.svg.png",
 		"id": "af"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_United_Arab_Emirates.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_United_Kingdom_(3-5).svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eswatini",
+			"Japanese": "エスワティニ王国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_the_United_States.svg.png",
+		"id": "am"
 	}
 ]
