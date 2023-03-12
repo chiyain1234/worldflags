@@ -39,7 +39,7 @@
 		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Antigua_and_Barbuda.svg.png",
 		"id": "ao"
 	},
-{
+	{
 		"country_name": {
 			"English": "Argentina",
 			"Japanese": "アルゼンチン共和国"
@@ -57,11 +57,83 @@
 	},
 	{
 		"country_name": {
+			"English": "Armenia",
+			"Japanese": "アルツァフ共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Artsakh.svg.png",
+		"id": "none"
+	},
+	{
+		"country_name": {
 			"English": "Australia",
-			"Japanese": "オーストラリア"
+			"Japanese": "オーストラリア連邦"
 		},
 		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Australia.svg.png",
 		"id": "au"
+	},
+	{
+		"country_name": {
+			"English": "Austria",
+			"Japanese": "オーストリア共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Austria.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Azerbaijan",
+			"Japanese": "アゼルバイジャン共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Azerbaijan.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Ecuador",
+			"Japanese": "エクアドル共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Ecuador.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Egypt",
+			"Japanese": "エジプト・アラブ共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Egypt.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "El Salvador",
+			"Japanese": "エルサルバドル共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_El_Salvador.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Eritria",
+			"Japanese": "エリトリア国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Eritrea.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Flag_of_Estonia.svg.png",
+			"Japanese": "エストニア共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Estonia.svg.png",
+		"id": "am"
+	},
+	{
+		"country_name": {
+			"English": "Armenia",
+			"Japanese": "アルメニア共和国"
+		},
+		"flag_image": "https://raw.githubusercontent.com/chiyain1234/worldflags/main/1/Flag_of_Armenia.svg.png",
+		"id": "am"
 	},
 	{
 		"country_name": {
